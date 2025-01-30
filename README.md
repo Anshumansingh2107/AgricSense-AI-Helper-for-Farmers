@@ -1,7 +1,5 @@
 # AgriSense: Data-Driven Crop Yield and Disease Prediction System
 
-Dashboard link: https://app.powerbi.com/groups/me/reports/fbfd226f-e974-4e80-9996-2645d41eb1b1/8c9a3804b63a5e3a961f?experience=power-bi
-
 ## Description
 
 AgriSense is an AI-powered platform aimed at revolutionizing agriculture by providing farmers with in-depth data analysis and predictive insights on crop yield and disease detection. This project leverages data visualization, machine learning models, and image analysis to help farmers make informed decisions to improve crop productivity and manage diseases effectively.
